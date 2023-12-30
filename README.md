@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 👋
+
+- 🔭 Atualmente estou trabalhando em... atualizar vários repositórios públicos no github para uso em disciplinas e outros projetos.
+- 🌱 Estou estudando... data lake, IoT e outros assuntos relacionados ao desenvolvimento de software.
+- 👯 Estou colaborando com... a escrita de alguns artigos com outros colegas e professores.
+- 🤔 Tá sendo difícil achar... programadores que trabalhem com scriptcase e blockchain.
+- ⚡ Fun fact: Finais de semana são usados em projetos, na maioria das vezes de desenvolvimento de sistemas
 
 <!--
 **monteiro74/monteiro74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

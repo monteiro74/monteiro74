@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### Estatísticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74)](https://git.io/streak-stats)
 

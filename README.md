@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats&theme=merko)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=dark)](https://git.io/streak-stats)
+
 #### Tecnologias:
 
 ![blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
@@ -71,4 +73,6 @@ Here are some ideas to get you started:
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 
- 
+
+Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/aulas_2023)

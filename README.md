@@ -9,7 +9,7 @@
 
 #### Estatísticas:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
 
 
 #### Tecnologias:

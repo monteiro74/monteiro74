@@ -9,7 +9,9 @@
 
 #### Estatísticas:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=default)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=default)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
 
 
 #### Tecnologias:

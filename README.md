@@ -59,7 +59,7 @@
 ![Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
-![snake animation](https://github.com/monteiro74/monteiro74/blob/output/github-contribution-grid-snake2.svg)
+![snake game](https://github.com/monteiro74/monteiro74/blob/output/github-contribution-grid-snake2.svg)
 
 Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/aulas_2023)

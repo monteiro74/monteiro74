@@ -69,4 +69,4 @@ Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 Níveis/tipos de graduação:
 
 ![https://user-images.githubusercontent.com/16731853/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png](https://user-images.githubusercontent.com/16731853/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png)
-(fonte da figura: https://github.com/anuraghazra/github-readme-stats/issues/2265).
+ (fonte da figura: https://github.com/anuraghazra/github-readme-stats/issues/2265).

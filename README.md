@@ -66,7 +66,9 @@ Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 #### Mais estatísticas:
 ![Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
 
-Níveis/tipos de graduação:
+
+#### Níveis/tipos de graduação (letras indicadas nas estatísticas acima):
 
 ![https://user-images.githubusercontent.com/16731853/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png](https://user-images.githubusercontent.com/16731853/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png)
- (fonte da figura: https://github.com/anuraghazra/github-readme-stats/issues/2265).
+
+(fonte da figura: https://github.com/anuraghazra/github-readme-stats/issues/2265).

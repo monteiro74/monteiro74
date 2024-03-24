@@ -13,7 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)
 
-![Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 #### Tecnologias:
 
@@ -63,3 +62,7 @@
 
 Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/aulas_2023)
+
+#### Mais estatísticas:
+![Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+

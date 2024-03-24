@@ -4,13 +4,12 @@
 - 🌱 Estou estudando... de tudo um pouco: desde epistemologia até algoritmos e outros assuntos relacionados a desenvolvimento de software.
 - 👯 Estou colaborando com... a escrita de alguns artigos com outros colegas e professores.
 - 🤔 Tá sendo difícil achar... programadores que trabalhem com Scriptcase e blockchain.
-- ⚡ Fun fact: Finais de semana são usados em projetos, programação e estudos.
+- ⚡ Fun fact: Finais de semana são usados em projetos, artigos, programação e estudos.
 
 
 #### Estatísticas:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=default)](https://git.io/streak-stats) 
-
 
 
 
@@ -62,6 +61,7 @@
 
 Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/aulas_2023)
+
 
 #### Mais estatísticas:
 ![Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=compact)](https://github.com/monteiro74/github-readme-stats)

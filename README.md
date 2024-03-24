@@ -15,10 +15,6 @@
 
 ![Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-
-![Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?monteiro74=monteiro74&show_icons=true)
-
-
 #### Tecnologias:
 
 ![blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)

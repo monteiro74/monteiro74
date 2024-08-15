@@ -72,3 +72,8 @@ Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 ![https://user-images.githubusercontent.com/16731853/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png](https://user-images.githubusercontent.com/16731853/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png)
 
 (fonte da figura: https://github.com/anuraghazra/github-readme-stats/issues/2265).
+
+#### Históricos de atualizações:
+
+![image](https://github.com/monteiro74/assets/86a5bbe1-21d1-42b4-915d-d5bb2f9ec4dc)
+

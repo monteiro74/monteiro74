@@ -79,3 +79,4 @@ Histórico de atualizações nos repositórios do Prof. Dr. Monteiro:<br>
 [![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/aulas_2023)
 
 Itens da página gerados com: https://rahuldkjain.github.io/gh-profile-readme-generator/
+.

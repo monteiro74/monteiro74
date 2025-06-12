@@ -16,8 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monteiro74&show_icons=true&locale=en" alt="monteiro74" /></p>
 
-#### Troféus:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monteiro74" alt="monteiro74" /></a> </p>
 
 
 #### Tecnologias:

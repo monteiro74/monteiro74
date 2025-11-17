@@ -5,6 +5,7 @@
 - 👯 Estou colaborando com... a escrita de alguns artigos com outros colegas e professores.
 - 🤔 Tá sendo difícil achar... programadores que trabalhem com Scriptcase e blockchain.
 - ⚡ Fun fact: Finais de semana são usados em projetos, programação e estudos.
+- 🌎 Site: https://www.pontodeensino.com
 
 
 #### Estatísticas:
